@@ -154,6 +154,7 @@ end
 gem 'pry-rails', require: false
 gem 'rake'
 
+gem 'wicked', '0.6.0'
 
 gem 'rest-client'
 gem 'rinku'

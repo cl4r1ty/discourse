@@ -400,6 +400,7 @@ GEM
       kgio (~> 2.6)
       rack
       raindrops (~> 0.7)
+    wicked (0.6.0)
 
 PLATFORMS
   ruby
@@ -496,3 +497,4 @@ DEPENDENCIES
   uglifier
   unf
   unicorn
+  wicked (0.6.0)
